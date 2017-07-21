@@ -21,7 +21,7 @@ O livro Javascript: The good Parts, Crockford está divido em:
 ## Ìndice
 <ul>
     <li>
-    O Melhor
+    <a href="./doc/01.thegoodparts.md">O Melhor</a>
         <ul>
             <li>Porque Javascript?</li>
             <li>Analisando o Javascript</li>
@@ -29,7 +29,7 @@ O livro Javascript: The good Parts, Crockford está divido em:
         </ul>
     </li>
     <li>    
-    Gramática
+    <a href="./doc/02.grammar.md">Gramática</a>
         <ul>
             <li>Espaço em Branco</li>
             <li>Nomes de Variáveis</li>
@@ -42,7 +42,7 @@ O livro Javascript: The good Parts, Crockford está divido em:
         </ul>
     </li>
     <li>    
-    Objetos
+    <a href="./doc/03.objects.md">Objetos</a>
         <ul>
             <li>Objetos Literais</li>
             <li>Retrievel</li>
@@ -56,7 +56,7 @@ O livro Javascript: The good Parts, Crockford está divido em:
         </ul>
     </li>
     <li>    
-    Funções
+    <a href="./doc/04.functions.md">Funções</a>
         <ul>
             <li>Funções Objetos</li>
             <li>Funções Literais</li>
@@ -76,7 +76,7 @@ O livro Javascript: The good Parts, Crockford está divido em:
         </ul>
     </li>
     <li>
-    Herança
+    <a href="./doc/05.inheritance.md">Herança</a>
         <ul>
             <li>Pseudoclásico</li>
             <li>Objetos Specificos</li>
@@ -86,7 +86,7 @@ O livro Javascript: The good Parts, Crockford está divido em:
         </ul>
     </li>
     <li>
-    Arrays
+    <a href="./doc/06.arrays.md">Arrays</a>
         <ul>
             <li>Array Literal</li>
             <li>Length</li>
@@ -98,7 +98,7 @@ O livro Javascript: The good Parts, Crockford está divido em:
         </ul>
     </li>
     <li>
-    Expressão Regular
+    <a href="./doc/07.regularexpression.md">Expressão Regular</a>
         <ul>
             <li>An Example</li>
             <li>Construction</li>
